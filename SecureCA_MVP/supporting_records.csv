@@ -1,0 +1,4 @@
+client_id,reference,date,party,amount,document_name
+C001,PUR-101,2026-10-05,Shree Suppliers,55000,invoice_101.pdf
+C001,PUR-102,2026-10-08,Metro Distributors,24000,invoice_102.pdf
+C002,PUR-301,2026-10-10,Fresh Inputs Ltd,55000,invoice_301.pdf

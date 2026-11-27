@@ -1,0 +1,5 @@
+client_id,task,due_date,status
+C001,October bank reconciliation,2026-11-30,Pending
+C001,Collect purchase invoice PUR-101,2026-11-28,Pending
+C002,Review monthly GST summary,2026-11-29,In progress
+C003,Confirm sales ledger,2026-12-02,Completed

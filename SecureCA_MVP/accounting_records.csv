@@ -1,0 +1,7 @@
+client_id,reference,date,record_type,party,amount
+C001,PUR-101,2026-10-05,Purchase,Shree Suppliers,50000
+C001,PUR-102,2026-10-08,Purchase,Metro Distributors,24000
+C001,SAL-201,2026-10-12,Sales,Retail Customer A,125000
+C002,PUR-301,2026-10-10,Purchase,Fresh Inputs Ltd,55000
+C002,SAL-401,2026-10-15,Sales,Local Retailer,98000
+C003,SAL-501,2026-10-18,Sales,Client Z,76000
